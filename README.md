@@ -2,10 +2,6 @@
   <img src="assets/hi-im-ruby.svg" alt="Hello! I'm Ruby :)" width="520" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=f778ba&center=true&vCenter=true&width=360&height=44&lines=Java%2C%20Python%2C%20C%2B%2B" alt="Typing headlines" />
-</p>
-
 ### 🗽 About Me
 
 I’m a New Yorker, born and raised, who loves breaking things down and building them better. Growing up, I enjoyed tutoring others, which shaped my interest in educational technology and simplifying complex processes to make work more understandable and efficient. I also enjoy testing different AI models, exploring their capabilities, and understanding their weaknesses. Outside of tech, I love exploring nature and photographing different flower varieties.
