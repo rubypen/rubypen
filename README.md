@@ -1,6 +1,8 @@
 <p align="center">
   <a href="https://github.com/rubypen">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=f43f5e&fontSize=54&height=90&width=666&text=Hello!%20I'm%20Ruby%20%3A)" alt="Hello! I&#39;m Ruby :)" />
+    <h1 style="font-size: 54px; margin: 0; font-weight: bold;">
+      <span style="color: white;">Hello! I'm </span><span style="color: #f43f5e;">Ruby</span><span style="color: white;"> :)</span>
+    </h1>
   </a>
 </p>
 
