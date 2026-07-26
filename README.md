@@ -1,10 +1,10 @@
-<p align="center" style="margin: 0; line-height: 1;">
+<div align="center" style="margin: 0; padding: 10px 0;">
   <a href="https://github.com/rubypen" style="text-decoration: none;">
-    <span style="font-size: 54px; font-weight: bold; color: white;">Hello! I'm </span>
-    <span style="font-size: 54px; font-weight: bold; color: #f43f5e;">Ruby</span>
-    <span style="font-size: 54px; font-weight: bold; color: white;"> :)</span>
+    <div style="display: inline-block; background: rgba(255,255,255,0.95); border-radius: 16px; padding: 10px 20px; box-shadow: 0 4px 12px rgba(0,0,0,0.08);">
+      <span style="font-size: 34px; font-weight: 700; color: #f43f5e; font-family: Arial, sans-serif;">Hello! I'm Ruby :)</span>
+    </div>
   </a>
-</p>
+</div>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=f778ba&center=true&vCenter=true&width=360&height=44&lines=Java%2C%20Python%2C%20C%2B%2B" alt="Typing headlines" />
