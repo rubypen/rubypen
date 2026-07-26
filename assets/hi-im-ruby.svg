@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Hi! I'm Ruby :)</title>
+  <desc id="desc">White greeting text with the word Ruby in ruby red.</desc>
+
+  <text
+    x="600"
+    y="175"
+    text-anchor="middle"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="96"
+    font-weight="700"
+    letter-spacing="1"
+  >
+    <tspan fill="#FFFFFF">Hi! I'm </tspan>
+    <tspan fill="#E0115F">Ruby</tspan>
+    <tspan fill="#FFFFFF"> :)</tspan>
+  </text>
+</svg>
