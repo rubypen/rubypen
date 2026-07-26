@@ -15,7 +15,7 @@ I’m a New Yorker, born and raised, who loves breaking things down and building
 |                                                            |                                                       |                                                            |
 | :--------------------------------------------------------: | :---------------------------------------------------: | :--------------------------------------------------------: |
 | <img src="assets/Flowers/pink_magnolia.JPG" width="200" /> | <img src="assets/Flowers/macaques.jpg" width="200" /> | <img src="assets/Flowers/morning_glory.JPG" width="200" /> |
-|                  Magnolias in Ithaca, NY                   |     Rhesus Macaques in Kam Chan Country Park, HK      |            Morning Glorys in Dearborn, Michigan            |
+|                  Magnolias in Ithaca, NY                   |     Rhesus Macaques in Kam Shan Country Park, HK      |            Morning Glorys in Dearborn, Michigan            |
 
 ### 🛠️ Tech Stack
 
