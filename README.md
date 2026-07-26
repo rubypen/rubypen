@@ -1,8 +1,8 @@
 <p align="center">
   <a href="https://github.com/rubypen">
-    <h1 style="font-size: 54px; margin: 0; font-weight: bold;">
-      <span style="color: white;">Hello! I'm </span><span style="color: #f43f5e;">Ruby</span><span style="color: white;"> :)</span>
-    </h1>
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffffff&fontSize=54&height=90&width=330&text=Hello!%20I'm%20" alt="" style="display: inline-block; margin: 0;" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=f43f5e&fontSize=54&height=90&width=120&text=Ruby" alt="" style="display: inline-block; margin: 0;" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffffff&fontSize=54&height=90&width=90&text=%20%3A%29" alt="" style="display: inline-block; margin: 0;" />
   </a>
 </p>
 
