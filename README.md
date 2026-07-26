@@ -1,9 +1,7 @@
 <div align="center" style="margin: 0; padding: 10px 0;">
-  <a href="https://github.com/rubypen" style="text-decoration: none;">
-    <div style="display: inline-block; background: rgba(255,255,255,0.95); border-radius: 16px; padding: 10px 20px; box-shadow: 0 4px 12px rgba(0,0,0,0.08);">
-      <span style="font-size: 34px; font-weight: 700; color: #f43f5e; font-family: Arial, sans-serif;">Hello! I'm Ruby :)</span>
-    </div>
-  </a>
+  <div style="display: inline-block; background: rgba(255,255,255,0.95); border-radius: 16px; padding: 10px 20px; box-shadow: 0 4px 12px rgba(0,0,0,0.08);">
+    <span style="font-size: 34px; font-weight: 700; color: grey; font-family: Arial, sans-serif;">Hello! I'm </span><span style="font-size: 34px; font-weight: 700; color: #f43f5e; font-family: Arial, sans-serif;">Ruby</span><span style="font-size: 34px; font-weight: 700; color: grey; font-family: Arial, sans-serif;"> :)</span>
+  </div>
 </div>
 
 <p align="center">
