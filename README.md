@@ -4,7 +4,9 @@
 
 ### 🗽 About Me
 
-I’m a New Yorker, born and raised, who loves breaking things down and building them better. Growing up, I enjoyed tutoring others, which shaped my interest in educational technology and simplifying complex processes to make work more understandable and efficient. I also enjoy testing different AI models, exploring their capabilities, and understanding their weaknesses. Outside of tech, I love exploring nature and photographing different flower varieties.
+I’m a New Yorker, born and raised, who loves breaking things down and building them better. Growing up, I enjoyed tutoring others, which shaped my interest in educational technology and simplifying complex processes to make work more understandable and efficient. 
+
+I also enjoy testing different AI models, exploring their capabilities, and understanding their weaknesses. Outside of tech, I love exploring nature and photographing different flower varieties.
 
 |                                                            |                                                       |                                                            |
 | :--------------------------------------------------------: | :---------------------------------------------------: | :--------------------------------------------------------: |
